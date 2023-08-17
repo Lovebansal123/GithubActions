@@ -8,5 +8,5 @@ jobs:
       
       - run: |
           ls
-          echo "good bye"
+          echo "hate you"
           echo "Love bansal 122"
